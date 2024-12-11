@@ -56,9 +56,8 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center">
+<h3 align="center" style="font-size: 24px;">Languages and Tools</h3>
+<p align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="50" height="50"/>
   </a> 
@@ -78,8 +77,8 @@
 
 ---
 
-<h4 align="center">Frameworks & Libraries:</h4>
-<p align="center">
+<h3 align="center" style="font-size: 24px;">Frameworks & Libraries</h3>
+<p align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/>
   </a>
@@ -93,8 +92,8 @@
 
 ---
 
-<h4 align="center">Backend & DevOps Tools:</h4>
-<p align="center">
+<h3 align="center" style="font-size: 24px;">Backend & DevOps Tools</h3>
+<p align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/>
   </a>
