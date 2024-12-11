@@ -7,15 +7,19 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **Machine Learning** and **Data Science**
+🌟 Passionate about crafting **customizable full-stack web solutions** tailored to client needs.  
 
-- 💡 I specialize in **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**
+💡 Skilled in **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, and more.  
 
-- 💬 Ask me about **Web Development** and **Docker**
+📘 Currently expanding my expertise in **Machine Learning** and **Data Science** to stay ahead in the tech industry.  
 
-- 📧 How to reach me **dilrukshitha.onine@gmail.com**
+💬 I’m always happy to discuss **Web Development**, **DevOps**, and **Docker**.  
 
-- ✨ Fun fact **I love automating repetitive tasks**
+📧 Feel free to reach out at **[dilrukshitha.onine@gmail.com](mailto:dilrukshitha.onine@gmail.com)**.  
+
+🌐 Check out my portfolio: [dilrukshitha.github.io/portfolio-react-firebass](https://dilrukshitha.github.io/portfolio-react-firebass/).  
+
+✨ Fun fact: I enjoy automating repetitive tasks to boost productivity!  
 
 </td>
 <td width="50%" align="center">
