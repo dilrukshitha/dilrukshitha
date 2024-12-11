@@ -57,20 +57,20 @@
 ---
 
 <h3 align="center" style="font-size: 24px;">Languages and Tools</h3>
-<p align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="50" height="50"/>
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="50" height="50"/>
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/>
   </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50"/>
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/>
   </a>
 </p>
@@ -78,14 +78,14 @@
 ---
 
 <h3 align="center" style="font-size: 24px;">Frameworks & Libraries</h3>
-<p align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="nextjs" width="50" height="50"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwindcss" width="50" height="50"/>
   </a>
 </p>
@@ -93,23 +93,24 @@
 ---
 
 <h3 align="center" style="font-size: 24px;">Backend & DevOps Tools</h3>
-<p align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+<p align="center">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg" alt="firebase" width="50" height="50"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="50" height="50"/>
   </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="kubernetes" width="50" height="50"/>
   </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Light.svg" alt="jenkins" width="50" height="50"/>
   </a>
 </p>
+
