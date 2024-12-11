@@ -1,31 +1,92 @@
-<h1 align="center">Hi 👋, I'm Dilrukshitha Heenkenda</h1>
-<h3 align="center">A passionate Full-stack developer from Sri Lanka</h3>
+# Hi 👋, I'm Dilrukshitha Heenkenda
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilrukshitha&label=Profile%20views&color=0e75b6&style=flat" alt="dilrukshitha" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Social media app**
-
-- 🌱 I’m currently learning **Machine learning, Data science**
-
-- 👯 I’m looking to collaborate on **ecommerce**
-
-- 👨‍💻 All of my projects are available at [https://dilrukshitha.github.io/portfolio-react-firebass/](https://dilrukshitha.github.io/portfolio-react-firebass/)
-
-- 📫 How to reach me **dilrukshitha.online@gmail.com**
-
-- 📄 Know about my experiences [https://dilrukshitha.github.io/portfolio-react-firebass/](https://dilrukshitha.github.io/portfolio-react-firebass/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dilrukshitha heenkenda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilrukshitha heenkenda" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/your-username/your-repo/raw/main/Images/about_me.gif" width="100px" alt="Animated Greeting">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs" width="40" height="40"/> 
-</a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="center">A passionate Full-Stack Developer & Machine Learning Enthusiast from Sri Lanka</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilrukshitha&show_icons=true&locale=en&layout=compact" alt="dilrukshitha" /></p>
+---
+
+<table align="center">
+<tr>
+<td width="50%">
+  <ul>
+    <li>🌱 I’m currently learning <b>Machine Learning & Data Science</b></li>
+    <li>🔭 Working on <b>Social Media App</b></li>
+    <li>💬 Ask me about <b>Full-Stack Development & DevOps</b></li>
+    <li>📫 Reach me at: <b>dilrukshitha.online@gmail.com</b></li>
+    <li>⚡ Fun fact: <b>I love problem-solving!</b></li>
+  </ul>
+</td>
+<td width="50%" align="center">
+  <img src="https://github.com/your-username/your-repo/raw/main/Images/coding.gif" alt="Coding Image" width="400px">
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">GitHub Statistics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilrukshitha&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilrukshitha&theme=radical" alt="GitHub Streak">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilrukshitha&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50"/>
+  </a>
+  <!-- Add more icons as needed -->
+</p>
+
+---
+
+<h3 align="center">Connect with Me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/dilrukshitha" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="Twitter" width="50" height="50"/>
+  </a>
+  <!-- Add other platforms -->
+</p>
+
+---
+
+<h3 align="center">Activity Graph:</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=dilrukshitha&theme=github" alt="GitHub Activity">
+</p>
+
+---
+
+<h3 align="center">Current Projects:</h3>
+<ul>
+  <li><a href="https://github.com/dilrukshitha/project1">Project 1: Social Media App</a> - A full-stack social media application built with React and Node.js.</li>
+  <li><a href="https://github.com/dilrukshitha/project2">Project 2: AI Image Editor</a> - A web app for AI-powered image editing with features like background removal and color correction.</li>
+</ul>
+
+<h3 align="center">Thanks for visiting my profile! 😊</h3>
