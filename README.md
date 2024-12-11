@@ -59,52 +59,58 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <th>Languages</th>
-      <th>Frameworks/Libraries</th>
-      <th>Tools</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50"/> <br>HTML
-        </a><br>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50"/> <br>CSS
-        </a><br>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50"/> <br>JavaScript
-        </a><br>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50" height="50"/> <br>TypeScript
-        </a><br>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="50" height="50"/> <br>Python
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="50" height="50"/> <br>React
-        </a><br>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="Next.js" width="50" height="50"/> <br>Next.js
-        </a><br>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="Tailwind CSS" width="50" height="50"/> <br>Tailwind CSS
-        </a><br>
-        <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="50" height="50"/> <br>Node.js
-        </a><br>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg" alt="Firebase" width="50" height="50"/> <br>Firebase
-        </a><br>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50"/> <br>MongoDB
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/blob
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="50" height="50"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="50" height="50"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/>
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/>
+  </a>
+</p>
 
+---
 
+<h4 align="center">Frameworks & Libraries:</h4>
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="nextjs" width="50" height="50"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwindcss" width="50" height="50"/>
+  </a>
+</p>
+
+---
+
+<h4 align="center">Backend & DevOps Tools:</h4>
+<p align="center">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg" alt="firebase" width="50" height="50"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="50" height="50"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="kubernetes" width="50" height="50"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Light.svg" alt="jenkins" width="50" height="50"/>
+  </a>
+</p>
