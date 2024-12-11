@@ -74,7 +74,3 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> 
 </p>
 
----
-
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/dilrukshitha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dilrukshitha" /></a></p>
