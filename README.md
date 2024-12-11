@@ -50,7 +50,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://dilrukshitha.github.io/portfolio-react-firebass/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Portfolio.svg" alt="portfolio" height="50" width="50" /></a>
+<a href="https://dilrukshitha.github.io/portfolio-react-firebass/" target="blank"><img align="center" src="https://dilrukshitha.github.io/portfolio-react-firebass/assets/logo-DX6Q48_W.png" alt="portfolio" height="50" width="150" /></a>
 <a href="https://linkedin.com/in/dilrukshitha-heenkenda/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
 </p>
 
