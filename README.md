@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/Dilrukshitha/Dilrukshitha/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Dilrukshitha Heenkenda</h1>
-<h3 align="center">Frontend Developer | Backend Developer | Aspiring Data Scientist</h3>
+<h3 align="center">Frontend Developer | Backend Developer | Studying Machine learning & Data Science</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilrukshitha&label=Profile%20views&color=0e75b6&style=flat" alt="dilrukshitha" /> </p>
 
 <table align="center">
