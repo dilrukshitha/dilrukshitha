@@ -19,6 +19,8 @@
 
 🌐 Check out my portfolio: [dilrukshitha.github.io/portfolio-react-firebass](https://dilrukshitha.github.io/portfolio-react-firebass/).  
 
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/dilrukshitha-heenkenda).  
+
 ✨ Fun fact: I enjoy automating repetitive tasks to boost productivity!  
 
 </td>
