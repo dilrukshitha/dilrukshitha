@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Development** and **Docker**
 
-- 📧 How to reach me **dilrukshitha@gmail.com**
+- 📧 How to reach me **dilrukshitha.onine@gmail.com**
 
 - ✨ Fun fact **I love automating repetitive tasks**
 
